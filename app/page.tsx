@@ -6,11 +6,9 @@ export default function About() {
   return (
     <>
       {/* <Head></Head> */}
-      <h1>index</h1>
-      <p>
-        <Link href='/users'>USER</Link>
-      </p>
-      <Link href='/about'>About</Link>
+      <main>
+        <div className='w-full h-2 '></div>
+      </main>
     </>
   );
 }

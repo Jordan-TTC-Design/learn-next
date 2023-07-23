@@ -1,8 +1,3 @@
-@import url('tailwindcss/base');
-/* @import url('./custom-base.css'); */
-@import url('tailwindcss/components');
-@tailwind utilities;
-/* @import url('./custom-utilities.css'); */
 @layer utilities {
 
   /* 文型設定 */
