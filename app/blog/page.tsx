@@ -5,6 +5,8 @@ export const metadata = {
   description: '這是我在學習 Next.js 的筆記',
 };
 
+export const revalidate = 10;
+
 export default function Blog() {
   return (
     <main className='container py-12 flex flex-col items-center'>
